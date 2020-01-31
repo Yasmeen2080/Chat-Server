@@ -1,0 +1,7 @@
+/.idea/
+/model/target/
+/controller-server/target/
+/repository-server/target/
+/service-server/target/
+/view-server/target/
+
